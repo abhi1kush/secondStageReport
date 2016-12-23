@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{denning}
+Dorothy Elizabeth~Robling Denning.
+\newblock {\em Cryptography And Data Security}.
+\newblock Addison-Wesley, Reading, Massachusetts, California, London,
+  Amsterdam, Don Mills, Ontario, Sydney, 1982.
+
+\bibitem{rwfm}
+NV~Narendra Kumar and RK~Shyamasundar.
+\newblock Realizing purpose-based privacy policies succinctly via
+  information-flow labels.
+\newblock In {\em Big Data and Cloud Computing (BdCloud), 2014 IEEE Fourth
+  International Conference on}, pages 753--760. IEEE, 2014.
+
+\bibitem{lattice}
+Dorothy~E Denning.
+\newblock A lattice model of secure information flow.
+\newblock {\em Communications of the ACM}, 19(5):236--243, 1976.
+
+\bibitem{hybrid}
+Zhifei Chen, Lin Chen, and Baowen Xu.
+\newblock Hybrid information flow analysis for python bytecode.
+\newblock In {\em Web Information System and Application Conference (WISA),
+  2014 11th}, pages 95--100. IEEE, 2014.
+
+\bibitem{taint}
+Juan~Jos{\'e} Conti and Alejandro Russo.
+\newblock A taint mode for python via a library.
+\newblock In {\em Nordic Conference on Secure IT Systems}, pages 210--222.
+  Springer, 2010.
+
+\end{thebibliography}

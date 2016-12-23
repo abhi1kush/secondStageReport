@@ -1,0 +1,48 @@
+\vskip -40pt
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motivation}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Goals}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Contributions}{4}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Implementation Details}{4}{subsection.1.3.1}
+\contentsline {subsubsection}{\textbf {Subset of features of python language considered for analysis.}}{4}{Item.4}
+\contentsline {chapter}{\numberline {2}Related work}{7}{chapter.2}
+\contentsline {chapter}{\numberline {3}Information Flow Analysis using Denning's Lattice Model}{8}{chapter.3}
+\contentsline {section}{\numberline {3.1}Analysis In Local Scope}{8}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Benchmarking of Certification Script using Denning's Examples \cite {denning}}{9}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Further analysis: considering global influence of while}{10}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Benchmarking of Certification Script using Denning's Examples \cite {denning}}{11}{subsection.3.2.1}
+\contentsline {chapter}{\numberline {4}Analysis of Multi-threaded Programs}{13}{chapter.4}
+\contentsline {section}{\numberline {4.1}Handling Information flow due to WAIT and SIGNAL operations}{13}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Benchmarking of Certification Script using Denning's Example \cite {denning}}{14}{subsection.4.1.1}
+\contentsline {chapter}{\numberline {5} Category 1 constraint Generator : PC reset and fixed labels.}{16}{chapter.5}
+\contentsline {section}{\numberline {5.1}Working}{16}{section.5.1}
+\contentsline {section}{\numberline {5.2}Constraint Rules}{17}{section.5.2}
+\contentsline {section}{\numberline {5.3}Key Idea}{17}{section.5.3}
+\contentsline {section}{\numberline {5.4}Limitations}{18}{section.5.4}
+\contentsline {chapter}{\numberline {6}Category 2 constraints : PC monotonic and fixed labels.}{20}{chapter.6}
+\contentsline {section}{\numberline {6.1}Working}{20}{section.6.1}
+\contentsline {section}{\numberline {6.2}Key Idea}{20}{section.6.2}
+\contentsline {section}{\numberline {6.3}Limitations}{20}{section.6.3}
+\contentsline {chapter}{\numberline {7}Category 3 constraints : PC reset and dynamic labels.}{22}{chapter.7}
+\contentsline {section}{\numberline {7.1}Constraint Rules}{22}{section.7.1}
+\contentsline {section}{\numberline {7.2}Key Idea}{24}{section.7.2}
+\contentsline {section}{\numberline {7.3}Limitations}{24}{section.7.3}
+\contentsline {chapter}{\numberline {8}Category 4 constraints: PC monotonic and dynamic label.}{25}{chapter.8}
+\contentsline {section}{\numberline {8.1}Key Idea}{25}{section.8.1}
+\contentsline {section}{\numberline {8.2}Limitations}{26}{section.8.2}
+\contentsline {chapter}{\numberline {9}Comparison among all categories of constraints.}{27}{chapter.9}
+\contentsline {chapter}{\numberline {10}Constraint Verification with RWFM Labels}{31}{chapter.10}
+\contentsline {section}{\numberline {10.1}RWFM label \cite {rwfm}}{31}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Secure Information Flow}{31}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {10.1.2}Definition of Join and Meet operations \cite {rwfm}}{31}{subsection.10.1.2}
+\contentsline {subsection}{\numberline {10.1.3}Create, Read and Write operations on objects with RWFM label \cite {rwfm}}{32}{subsection.10.1.3}
+\contentsline {section}{\numberline {10.2}Constraint Verification}{32}{section.10.2}
+\contentsline {chapter}{\numberline {11}Conclusion \& Future work}{35}{chapter.11}
+\contentsline {chapter}{\numberline {12}Python Syntax}{36}{chapter.12}
+\contentsline {chapter}{Appendices}{38}{section*.17}
+\contentsline {chapter}{\numberline {A}Python Script category 1: Constraint Generator}{40}{Appendix.1.A}
+\contentsline {chapter}{\numberline {B}Python Script category 2: Constraint Generator}{57}{Appendix.1.B}
+\contentsline {chapter}{\numberline {C}Python Script category 3: Constraint Generator}{74}{Appendix.1.C}
+\contentsline {chapter}{\numberline {D}Python Script category 4: Constraint Generator}{93}{Appendix.1.D}
+\contentsline {chapter}{\numberline {E}Python Script 2: Constraint Checker}{111}{Appendix.1.E}
+\contentsline {chapter}{\numberline {F}Copy Programs}{115}{Appendix.1.F}
