@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{denning}
 Dorothy Elizabeth~Robling Denning.
@@ -6,12 +6,42 @@ Dorothy Elizabeth~Robling Denning.
 \newblock Addison-Wesley, Reading, Massachusetts, California, London,
   Amsterdam, Don Mills, Ontario, Sydney, 1982.
 
+\bibitem{lapadula}
+D~Elliott Bell and Leonard~J LaPadula.
+\newblock Secure computer systems: Mathematical foundations.
+\newblock Technical report, DTIC Document, 1973.
+
+\bibitem{biba}
+Kenneth~J Biba.
+\newblock Integrity considerations for secure computer systems.
+\newblock Technical report, DTIC Document, 1977.
+
 \bibitem{rwfm}
 NV~Narendra Kumar and RK~Shyamasundar.
 \newblock Realizing purpose-based privacy policies succinctly via
   information-flow labels.
 \newblock In {\em Big Data and Cloud Computing (BdCloud), 2014 IEEE Fourth
   International Conference on}, pages 753--760. IEEE, 2014.
+
+\bibitem{lang}
+Fred~B Schneider, Greg Morrisett, and Robert Harper.
+\newblock A language-based approach to security.
+\newblock In {\em Informatics}, pages 86--101. Springer, 2001.
+
+\bibitem{noni}
+Security policies and security models.
+\newblock Technical report.
+
+\bibitem{ques}
+Daryl McCullough.
+\newblock Noninterference and the composability of security properties.
+\newblock In {\em Security and Privacy, 1988. Proceedings., 1988 IEEE Symposium
+  on}, pages 177--186. IEEE, 1988.
+
+\bibitem{volpano}
+Dennis Volpano, Cynthia Irvine, and Geoffrey Smith.
+\newblock A sound type system for secure flow analysis.
+\newblock {\em Journal of computer security}, 4(2-3):167--187, 1996.
 
 \bibitem{lattice}
 Dorothy~E Denning.
